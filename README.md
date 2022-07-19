@@ -1,5 +1,5 @@
 - 👋 Olá, Prazer meu nome é Matheus Reis
-- 👀 Estou buscando uma vaga para aperfecoar  
+- 👀 Estou buscando cada vez mais conhecimentos para aplicar em uma oportunidade de emprego
 - 🌱 Atualmente estou fazendo curso de Técnico de Desenvolvimento de sistemas na instituição ETEC – Dra. Ruth Cardoso 
 - 💞️ A cada conhecimento que adquiro me apaixono mais pelo segmento de trabalho. 
 
