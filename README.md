@@ -1,8 +1,8 @@
-- 👋 Olá, Prazer meu nome é Matheus Reis
-- 👀 Estou buscando cada vez mais conhecimentos para aplicar em uma oportunidade de emprego
-- 🌱 Atualmente estou fazendo curso de Técnico de Desenvolvimento de sistemas na instituição ETEC – Dra. Ruth Cardoso 
-- 💞️ A cada conhecimento que adquiro me apaixono mais pelo segmento de trabalho. 
+👋 Olá! Sou o Matheus Reis e estou em constante busca por novos conhecimentos e aperfeiçoamento. Meu objetivo é abrir oportunidades e aplicar esses aprendizados em futuras oportunidades de emprego para impulsionar minha carreira.
 
+🎓 Atualmente, estou cursando Ensino Superior em Análise e Desenvolvimento de Sistemas na Universidade Santa Cecília. Anteriormente, concluí o curso de Técnico de Desenvolvimento de Sistemas na renomada instituição ETEC Dra. Ruth Cardoso.
+
+💡 Cada novo conhecimento que adquiro só aumenta minha paixão pelo segmento de trabalho. Estou entusiasmado para colocar em prática tudo o que venho aprendendo e continuar crescendo profissionalmente nessa área fascinante.
 
 <!---
 MatheusReis97/MatheusReis97 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
