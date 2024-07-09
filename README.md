@@ -1,4 +1,4 @@
-<h2 align="left">Sobre mim</h2>
+<h2 align="left"><strong>Sobre mim</strong></h2>
 
 ###
 
@@ -6,7 +6,7 @@
 
 ###
 
-<h2 align="left">Tecnologia</h2>
+<h2 align="left"><strong>Tecnologia</h2></strong>
 
 ###
 
@@ -30,7 +30,7 @@
 
 ###
 
-<h2 align="left">Social</h2>
+<h2 align="left"><strong>Social</h2></strong>
 
 ###
 
